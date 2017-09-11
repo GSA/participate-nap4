@@ -1,4 +1,22 @@
-Below is a copy of our contributing guidelines published at https://open.usa.gov/about/#public-engagement-guidelines
+Below is a copy of our [guidance for submitting new commitments](https://open.usa.gov/national-action-plan/4/#guidance-for-commitments) and our [public engagement guidelines](https://open.usa.gov/about/#public-engagement-guidelines).
+
+
+### Guidance for Commitments
+Thank you for your thoughts and contributions as we co-create the United States' fourth National Action Plan (NAP 4). This year marks an important transition for U.S. commitments to open government, as we move from the broader initial set of initiatives and activities that have characterized our NAPs in the past, to a more streamlined, impactful, and elevated set of commitments. We encourage our Federal agency and civil society partners to work closely together to identify and deepen initiatives that are working, and to develop meaningful and ambitious NAP 4 commitments that reflect a spirit of accountability to U.S. citizens and demonstrate American leadership in promoting transparency and good government.
+
+**Commitments should be achievable by June 2019. They should be new, ambitious, and measureable per the template below.**
+
+> **Suggested Title**
+> 
+> **Topline Description** - *One sentence “elevator pitch”*
+> 
+> **Key Objective(s)** - *Describe how this initiative creates a more transparent, participatory, or collaborative government*
+> 
+> **Paragraph Description** - *For examples, please review paragraphs from past National Action Plan commitments (see [https://open.usa.gov](https://open.usa.gov))*
+> 
+> **Measurable Metrics** - *How can we quantify, verify, monitor, and report progress? Work should be completed by June 2019. Timelines encouraged.* 
+
+---
 
 ## Public Engagement Guidelines
 
