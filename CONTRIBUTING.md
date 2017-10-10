@@ -1,3 +1,7 @@
+*The deadline for submissions to the fourth U.S. National Action Plan (NAP 4) was **October 2nd 2017**. Late submissions will be labeled as such and may be considered for inclusion in future updates to the plan.*
+
+---
+
 Below is a copy of our [guidance for submitting new commitments](https://open.usa.gov/national-action-plan/4/#guidance-for-commitments) and our [public engagement guidelines](https://open.usa.gov/about/#public-engagement-guidelines).
 
 
