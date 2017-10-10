@@ -1,3 +1,9 @@
+THIS IS A LATE SUBMISSION
+
+*The deadline for submissions to the fourth U.S. National Action Plan (NAP 4) was **October 2nd 2017**. Late submissions will be labeled as such and may be considered for inclusion in future updates to the plan.*
+
+---
+
 Please use the this template in accordance with our guidance on contributing suggestions. You can delete this introductory text as well as the instructions below, but please keep the headings in place (the lines that begin with ##) and use them to organize your submission.
 
 ## Topline Description
